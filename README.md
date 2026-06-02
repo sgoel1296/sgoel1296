@@ -1,118 +1,231 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I%27m%20Shubham%20%F0%9F%91%8B&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Senior%20Business%20Analyst%20%7C%20Fintech%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shubham%20Goyal&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Turning%20Raw%20Data%20Into%20Business%20Decisions&descAlignY=56&descAlign=50&descSize=18" width="100%" />
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-goyal-06327b176)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sgoel1296@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=sgoel1296&color=blueviolet&style=flat-square&label=Profile+Views)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=Senior+Business+Analyst+%40+PayPal;7%2B+Years+in+Fintech+%7C+Lending+%7C+Payments;SQL+%C2%B7+Python+%C2%B7+BigQuery+%C2%B7+Looker+%C2%B7+Tableau)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-goyal-06327b176)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sgoel1296@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sgoel1296)
+![Profile Views](https://komarev.com/ghpvc/?username=sgoel1296&color=blueviolet&style=for-the-badge&label=VISITORS)
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
-- 🏢 **Senior Business Analyst @ PayPal** — data validation, Looker dashboards & pipeline automation across fintech
-- 💼 **7+ years** of experience across **PayPal · Paytm · TCS · NCR Corporation**
-- 🌱 Currently pursuing **100 Days of ML** to transition into AI-driven analytics & data science
-- 💬 Ask me about **SQL, Python, BigQuery, Looker, Power BI, Tableau, or fintech & lending analytics**
-- 🚀 Promoted from Analyst → Junior Manager at Paytm in just **2 years**
-- 📫 Reach me at **sgoel1296@gmail.com**
+```yaml
+name: Shubham Goyal
+role: Senior Business Analyst
+company: PayPal
+location: India 🇮🇳
+experience: 7+ years across Fintech, Payments & Lending
+
+currently:
+  - 🔭 Leading data validation & reporting automation at PayPal
+  - 🌱 Completing "100 Days of ML" — transitioning into AI-driven analytics
+  - 🤖 Exploring LLM-powered workflows to supercharge business intelligence
+
+domains:
+  - Digital Payments & Wallets
+  - Consumer & Merchant Lending
+  - Credit Risk Analytics
+  - Revenue & Growth Metrics
+
+superpower: >
+  Translating messy data into dashboards that make
+  stakeholders say "Now I get it."
+```
 
 ---
 
-## 💼 Work Experience
+## 🚀 Career Journey
 
-| 🗓️ Period | 🎯 Role | 🏢 Company |
-|:---|:---|:---|
-| Jun 2025 – May 2026 | Senior Business Analyst | PayPal |
-| Sep 2022 – Jun 2025 | Junior Manager – Business Analytics | Paytm |
-| Oct 2021 – Sep 2022 | Business Analyst | Tata Consultancy Services (TCS) |
-| Jun 2017 – Apr 2020 | Application Support Engineer (BA) | NCR Corporation |
+```
+PayPal ──────────── Senior Business Analyst ───── Jun 2025 → Present
+    │                ├─ Leading team of 4 analysts
+    │                ├─ Large-scale data validation & pipeline automation
+    │                └─ Transactional analytics across global datasets
+    │
+Paytm ───────────── Jr. Manager, Business Analytics ── Sep 2022 → Jun 2025
+    │                ├─ 📈 Promoted in just 2 years (Analyst → Jr. Manager)
+    │                ├─ Lending analytics & credit risk modeling
+    │                └─ Replaced legacy Excel with Tableau & Looker dashboards
+    │
+TCS ─────────────── Business Analyst ──────────── Oct 2021 → Sep 2022
+    │                ├─ Scalable BI dashboard development
+    │                └─ Self-service analytics enablement
+    │
+NCR Corporation ─── App Support Engineer (BA) ─── Jun 2017 → Apr 2020
+                     ├─ Application support & incident management
+                     └─ Cross-functional stakeholder collaboration
+```
 
 ---
 
-## 💻 Tech Stack
+## 🏆 Impact Highlights
 
-**🐍 Languages & Big Data**
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/📈-Promoted-blueviolet?style=for-the-badge" /><br/>
+      <b>Analyst → Jr. Manager</b><br/>
+      <sub>in just 2 years at Paytm</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/👥-Team_Lead-blue?style=for-the-badge" /><br/>
+      <b>Led 4 Analysts</b><br/>
+      <sub>at PayPal for large-scale data ops</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/⚡-Automated-orange?style=for-the-badge" /><br/>
+      <b>Data Pipelines</b><br/>
+      <sub>Reduced manual effort dramatically</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/📊-Modernized-green?style=for-the-badge" /><br/>
+      <b>Legacy → BI Dashboards</b><br/>
+      <sub>Tableau & Looker at scale</sub>
+    </td>
+  </tr>
+</table>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+---
+
+## 🛠️ Tech Stack
+
+<details>
+<summary><b>🐍 Languages & Databases</b> — click to expand</summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Google BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**📊 Data Science & Machine Learning**
+</details>
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+<details>
+<summary><b>📊 Data Science & ML</b> — click to expand</summary>
+<br/>
 
-**📈 Visualization & BI**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=Looker&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+</details>
 
-**🤖 AI & Automation**
+<details>
+<summary><b>📈 Visualization & BI</b> — click to expand</summary>
+<br/>
+
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🤖 AI & Automation</b> — click to expand</summary>
+<br/>
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
 
-**☁️ Cloud & DevOps**
+</details>
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+<details>
+<summary><b>☁️ Cloud & DevOps</b> — click to expand</summary>
+<br/>
 
-**🛠️ Tools & Collaboration**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+</details>
 
----
+<details>
+<summary><b>🔧 Tools & Collaboration</b> — click to expand</summary>
+<br/>
 
-## 🏅 Key Achievements
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172BF4?style=for-the-badge&logo=confluence&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-- 🚀 **Promoted** from Analyst → Junior Manager at Paytm in just **2 years** for consistently high-impact delivery in lending analytics
-- 👥 **Led a team of 4 analysts** at PayPal delivering large-scale data validation & reporting automation across transactional datasets
-- ⚡ **Automated data pipelines** significantly reducing manual effort and improving real-time data accessibility across teams
-- 📊 **Replaced legacy Excel reporting** with scalable Tableau & Looker dashboards at TCS and Paytm, enabling self-service analytics
-- 🎓 Currently completing **100 Days of ML** certification to deepen expertise in AI-driven analytics
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=sgoel1296&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170" />
-  &nbsp;
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sgoel1296&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sgoel1296&theme=dark&hide_border=false" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sgoel1296&theme=react-dark&hide_border=true&area=true" width="95%" />
-</div>
+</details>
 
 ---
 
-### ✍️ Random Dev Quote
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://github-readme-stats.shion.dev/api?username=sgoel1296&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&ring_color=A855F7&title_color=A855F7" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sgoel1296&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=A855F7" height="180" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=sgoel1296&theme=tokyonight&hide_border=true&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sgoel1296&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Timeline" width="95%" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sgoel1296/sgoel1296/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sgoel1296/sgoel1296/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/sgoel1296/sgoel1296/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+## 🎯 What I'm Up To
+
+- 🧠 **100 Days of ML** — Building a strong foundation in ML/AI for data-driven decision making
+- 📚 **Deep diving** into predictive analytics, NLP & LLM integration for business insights
+- 🔨 **Building** open-source data analysis tools & Jupyter notebooks
+- 💡 **Open to collaborate** on fintech analytics, lending data science & ML projects
+
+---
+
+<div align="center">
+
+### 💬 *"Without data, you're just another person with an opinion."*
+— W. Edwards Deming
+
+<br/>
+
+**📫 Let's connect — I'm always up for a data conversation!**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-goyal-06327b176)
+[![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sgoel1296@gmail.com)
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
